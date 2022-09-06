@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://zotac-101.github.io/PubliiZwei/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://zotac-101.github.io/PubliiZwei/</loc>
+</url>
+<url>
+<loc>https://zotac-101.github.io/PubliiZwei/this-is-the-site-test.html</loc>
+<lastmod>2022-09-06T14:01:38+05:30</lastmod>
+<image:image>
+<image:loc>https://zotac-101.github.io/PubliiZwei/media\posts\1/regional_population_structures.png</image:loc>
+<image:title><![CDATA[Alternative Description]]></image:title>
+</image:image>
+</url>
+</urlset>

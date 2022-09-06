@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zotac-101.github.io/PubliiZwei/sitemap.xml
