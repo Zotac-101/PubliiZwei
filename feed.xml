@@ -3,7 +3,7 @@
     <title>Thelanoski</title>
     <link href="https://zotac-101.github.io/PubliiZwei/feed.xml" rel="self" />
     <link href="https://zotac-101.github.io/PubliiZwei" />
-    <updated>2022-09-06T14:01:38+05:30</updated>
+    <updated>2022-09-06T14:16:04+05:30</updated>
     <author>
         <name>Kaboom</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://zotac-101.github.io/PubliiZwei/this-is-the-site-test.html"/>
         <id>https://zotac-101.github.io/PubliiZwei/this-is-the-site-test.html</id>
 
-        <updated>2022-09-06T14:01:38+05:30</updated>
+        <updated>2022-09-06T14:16:04+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://zotac-101.github.io/PubliiZwei/media/posts/1/denoise_sharpen_unknown.png" alt="" />
                     This is is the main page where we are going to type the main idea the into words sos taht the website can be made in 3 days . Wow this is going pretty fast and i think i am able to do it very&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://zotac-101.github.io/PubliiZwei/media/posts/1/denoise_sharpen_unknown.png" alt="" />
                 <figure class="post__image"><img loading="lazy"  src="https://zotac-101.github.io/PubliiZwei/media/posts/1/regional_population_structures.png" sizes="100vw" srcset="https://zotac-101.github.io/PubliiZwei/media/posts/1/responsive/regional_population_structures-xs.png 300w ,https://zotac-101.github.io/PubliiZwei/media/posts/1/responsive/regional_population_structures-sm.png 480w ,https://zotac-101.github.io/PubliiZwei/media/posts/1/responsive/regional_population_structures-md.png 768w ,https://zotac-101.github.io/PubliiZwei/media/posts/1/responsive/regional_population_structures-lg.png 1024w ,https://zotac-101.github.io/PubliiZwei/media/posts/1/responsive/regional_population_structures-xl.png 1360w ,https://zotac-101.github.io/PubliiZwei/media/posts/1/responsive/regional_population_structures-2xl.png 1600w"  alt="Alternative Description" width="1074" height="1009"></figure>
 <p> </p>
 <p>This is is the main page  where we are going to type the main idea the into words sos taht the website can be made in 3 days .</p>
@@ -87,6 +89,7 @@
 </tr>
 </tbody>
 </table>
+<figure class="post__video"><iframe loading="lazy" width="707" height="395" style="width: 707px; height: 395px;" src="https://www.youtube.com/embed/D48UG9WiTNk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
